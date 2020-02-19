@@ -1,0 +1,20 @@
+ El volumen de la unidad C es Windows-SSD
+ El n£mero de serie del volumen es: 7497-C46B
+
+ Directorio de C:\manu\git\00borrar\kk24\cv
+
+20/02/2020  00:05    <DIR>          .
+20/02/2020  00:05    <DIR>          ..
+20/02/2020  00:05                79 .gitattributes
+20/02/2020  00:05               333 .gitignore
+20/02/2020  00:05               239 .travis.yml
+20/02/2020  00:05                 0 2.txt
+20/02/2020  00:05             1.084 LICENSE
+20/02/2020  00:05           661.977 package-lock.json
+20/02/2020  00:05               714 package.json
+20/02/2020  00:05    <DIR>          public
+20/02/2020  00:05               611 README.md
+20/02/2020  00:05    <DIR>          src
+20/02/2020  00:05    <DIR>          template
+               8 archivos        665.037 bytes
+               5 dirs  23.971.504.128 bytes libres
