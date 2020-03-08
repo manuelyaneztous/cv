@@ -15,8 +15,12 @@ lo tengo aqui en git en : https://github.com/manuelyaneztous/cv
 porque ahi puedo acceder a la aplicacion desplegada : https://manuelyaneztous.github.io/cv/
 
 
+<br>
+para compilar, ejecutar y desplegar :
 
-
+npm install <br>
+npm start <br>
+npm install gh-pages 
 
 
 
