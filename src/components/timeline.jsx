@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Anovo<span> &nbsp; &nbsp; 5/2018 &nbsp; - &nbsp; 9/2019</span></h2>
+                        <h2>Anovo<span> &nbsp; &nbsp; 5/2018 &nbsp; - &nbsp; 2/2020</span></h2>
                         <p>
                         Mantenimiento de la  aplicación de gestión logística. Anovo es una empresa que se dedica a la reparación de móviles y electrónica.
 Cada reparación es un registro en BBDD. La aplicación se interactúa con call center, talleres, transportistas, … etc.
