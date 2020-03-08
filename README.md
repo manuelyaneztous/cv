@@ -20,7 +20,7 @@ para compilar, ejecutar y desplegar :
 
 npm install <br>
 npm start <br>
-npm install gh-pages 
+npm run deploy <br> ( como dice en el tutorial, hay que tener el gh-pages instalado  : npm install gh-pages, ojo !!! es necesario cambiar la version de la aplicacion ) 
 
 
 
